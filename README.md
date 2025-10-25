@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Ryan Farrah
 
-<!--
-**RyanFarrah67/RyanFarrah67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **PHP / Symfony Developer** | 🧠 Tech explorer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 About Me
+
+I'm a passionate **PHP developer** specialized in the **Symfony framework**.  
+I love building reliable, high-performance web applications with clean, maintainable code.  
+
+- 🏗️ Strong focus on backend architecture, scalability, and code quality  
+- ⚡ Experienced with caching systems (Memcached, HTTP cache, Doctrine cache)  
+- 📦 Comfortable with Dockerized environments and CI/CD workflows  
+- 🧰 Daily tools: PHPStorm, GitLab/GitHub, Docker, Composer, Sentry, Matomo  
+- 🧾 I enjoy learning technical depth
